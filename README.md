@@ -29,7 +29,7 @@ Right now I'm working at [Webmen](https://webmen.nl/) as back-end developer.
 ### 🌐 Open Source
 
 I ♥ Open Source software, but right now I don't contribute that much to projects.
-Dou you need collaborators for a open source project? Please [get in contact](https://github.com/robertvanlienden#-get-in-contact)!
+Dou you need collaborators for a open source project? Please [get in contact](#-get-in-contact)!
 
 #### Personal Open-Source Projects
 ##### SilverStripe themes
