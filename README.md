@@ -42,6 +42,8 @@ I've made 2 simple SilverStripe themes based on Bulma CSS framework.
 [FoodChoose](https://www.foodchoose.nl/) is a simple Laravel app I've made (one of the first finished laravel projects). 
 After some year of doing almost nothing with this side-project, I've decided to Open-source a copy of the source code for learning purposes.
 
+[You can find the source code over here](https://github.com/robertvanlienden/FoodChoose)
+
 ### 📫 Get in contact
 
 * [Twitter](https://www.twitter.com/robertvlienden/)
