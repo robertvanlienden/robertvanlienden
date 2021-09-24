@@ -2,7 +2,7 @@
 ## Web developer
 [![website badge](https://img.shields.io/badge/Website-https%3A%2F%2Fwww.robertvanlienden.nl%2F-informational)](https://www.robertvanlienden.nl)
 [![twitter badge](https://img.shields.io/badge/twitter-@robertvlienden-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/robertvlienden)
-[![linkedin badge](https://img.shields.io/badge/linkedin-robert van lienden-%231FA1F1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-van-lienden-b2b192177/)
+[![linkedin badge](https://img.shields.io/badge/linkedin-robert%20van%20lienden-%231FA1F1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-van-lienden-b2b192177/)
 
 I'm a web developer mostly working on the back-end, but I also like to do some front-end work now and then.
 Right now I'm working at [Webmen](https://webmen.nl/) as back-end developer.
