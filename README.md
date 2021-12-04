@@ -5,7 +5,7 @@
 [![linkedin badge](https://img.shields.io/badge/linkedin-robert%20van%20lienden-%231FA1F1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-van-lienden-b2b192177/)
 
 I'm a web developer mostly working on the back-end, but I also like to do some front-end work now and then.
-Right now I'm working at [Webmen](https://webmen.nl/) as back-end developer.
+Right now I'm working at [Webmen](https://webmen.nl/) as back-end developer building awesome features on awesome web applications!
 
 ### 📖 Knowledge overview
 
