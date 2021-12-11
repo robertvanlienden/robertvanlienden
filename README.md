@@ -32,6 +32,15 @@ I ♥ Open Source software, but right now I don't contribute that much to projec
 Dou you need collaborators for a open source project? Please [get in contact](#-get-in-contact)!
 
 #### Personal Open-Source Projects
+
+##### PHPersonal notes
+A personal notes application I've build.
+
+Symfony PHP Framework is used to build API endpoints. This way you are can create your own front-end to interact with the application.
+But there is also an VueJS/Vuetify front-end is included to interact with the app!
+
+* [robertvanlienden/phpersonalnotes](https://github.com/robertvanlienden/phpersonalnotes)
+
 ##### SilverStripe themes
 I've made 2 simple SilverStripe themes based on Bulma CSS framework.
 
