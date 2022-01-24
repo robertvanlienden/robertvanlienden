@@ -17,8 +17,9 @@ Right now I'm working at [Webmen](https://webmen.nl/) as back-end developer buil
   * Symfony framework
   * Laravel framework
 * JavaScript
-  * jQuery
   * VueJS
+  * jQuery
+
 
 #### 🧰 Tools 
 * Linux (Ubuntu)
