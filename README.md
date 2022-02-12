@@ -31,9 +31,7 @@ Right now I'm working at [Webmen](https://webmen.nl/) as back-end developer buil
 
 I ♥ Open Source software. This is a overview of the probject I've published as open-source
 
-#### Personal Open-Source Projects
-
-##### PHPersonal notes
+#### PHPersonal notes
 A personal notes application I've build.
 
 Symfony PHP Framework is used to build API endpoints. This way you are can create your own front-end to interact with the application.
@@ -41,14 +39,14 @@ But there is also an VueJS/Vuetify front-end is included to interact with the ap
 
 * [robertvanlienden/phpersonalnotes](https://github.com/robertvanlienden/phpersonalnotes)
 
-##### SilverStripe modules/themes
+#### SilverStripe modules
 
-**robertvanlienden/silverstripe-elemental-advanced-edit**\
+##### robertvanlienden/silverstripe-elemental-advanced-edit
 Simple module to add a link to the "advanced edit" of a elemental block
 
 * [robertvanlienden/silverstripe-elemental-advanced-edit](https://github.com/robertvanlienden/silverstripe-elemental-advanced-edit)
 
-**Themes**\
+##### SilverStripe theme
 I've made 2 simple SilverStripe themes based on Bulma CSS framework.
 
 * [robertvanlienden/silverstripe-bulma-primary-theme](https://github.com/robertvanlienden/silverstripe-bulma-primary-theme)
