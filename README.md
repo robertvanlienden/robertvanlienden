@@ -29,8 +29,7 @@ Right now I'm working at [Webmen](https://webmen.nl/) as back-end developer buil
 
 ### 🌐 Open Source
 
-I ♥ Open Source software, but right now I don't contribute that much to projects.
-Dou you need collaborators for a open source project? Please [get in contact](#-get-in-contact)!
+I ♥ Open Source software. This is a overview of the probject I've published as open-source
 
 #### Personal Open-Source Projects
 
@@ -42,7 +41,14 @@ But there is also an VueJS/Vuetify front-end is included to interact with the ap
 
 * [robertvanlienden/phpersonalnotes](https://github.com/robertvanlienden/phpersonalnotes)
 
-##### SilverStripe themes
+##### SilverStripe modules/themes
+
+**robertvanlienden/silverstripe-elemental-advanced-edit**\
+Simple module to add a link to the "advanced edit" of a elemental block
+
+* [robertvanlienden/silverstripe-elemental-advanced-edit](https://github.com/robertvanlienden/silverstripe-elemental-advanced-edit)
+
+**Themes**\
 I've made 2 simple SilverStripe themes based on Bulma CSS framework.
 
 * [robertvanlienden/silverstripe-bulma-primary-theme](https://github.com/robertvanlienden/silverstripe-bulma-primary-theme)
