@@ -10,8 +10,11 @@ Right now I'm working at [Webmen](https://webmen.nl/) as back-end developer buil
 ### 📖 Knowledge overview
 
 #### 🤓 Coding 
-* HTML/CSS
-* SASS
+* HTML/CSS/SCSS
+* CSS Frameworks;
+  * Bootstrap
+  * Bulma
+  * Tailwind
 * PHP
   * SilverStripe CMS
   * Symfony framework
@@ -19,7 +22,6 @@ Right now I'm working at [Webmen](https://webmen.nl/) as back-end developer buil
 * JavaScript
   * VueJS
   * jQuery
-
 
 #### 🧰 Tools 
 * Linux (Ubuntu)
