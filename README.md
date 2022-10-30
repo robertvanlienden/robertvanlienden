@@ -31,7 +31,7 @@ Right now I'm working at [Webmen](https://webmen.nl/) as back-end developer buil
 
 ### 🌐 Open Source
 
-I ♥ Open Source software. This is a overview of the probject I've published as open-source
+I ♥ Open Source software. This is a overview of the probjects I've published as open-source
 
 #### PHPersonal notes
 A personal notes application I've build.
