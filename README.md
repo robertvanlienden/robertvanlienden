@@ -54,7 +54,7 @@ I've made some SilverStripe themes based on Bulma CSS framework.
 
 * [robertvanlienden/silverstripe-bulma-primary-theme](https://github.com/robertvanlienden/silverstripe-bulma-primary-theme)
 * [robertvanlienden/silverstripe-bulma-dark-theme](https://github.com/robertvanlienden/silverstripe-bulma-dark-theme)
-* [robertvanlienden/silverstripe-bulma-portfolio-theme](robertvanlienden/silverstripe-bulma-portfolio-theme)
+* [robertvanlienden/silverstripe-bulma-portfolio-theme](https://github.com/robertvanlienden/silverstripe-bulma-portfolio-theme)
 
 ##### FoodChoose (dutch content)
 FoodChoose is a simple Laravel app I've made (one of the first finished laravel projects). 
