@@ -2,7 +2,7 @@
 ## Web developer
 [![website badge](https://img.shields.io/badge/Website-https%3A%2F%2Fwww.robertvanlienden.dev%2F-informational)](https://www.robertvanlienden.dev)
 [![twitter badge](https://img.shields.io/badge/twitter-@robertvlienden-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/robertvlienden)
-[![linkedin badge](https://img.shields.io/badge/linkedin-robert%20van%20lienden-%231FA1F1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-van-lienden-b2b192177/)
+[![linkedin badge](https://img.shields.io/badge/linkedin-robert%20van%20lienden-%231FA1F1?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/robert-van-lienden-b2b192177/](https://www.linkedin.com/in/robertvanlienden/))
 
 As web developer I am mostly working on the back-end using PHP, but I also like to do some front-end (JS/CSS) work now and then.
 
