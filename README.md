@@ -46,15 +46,18 @@ But there is also an VueJS/Vuetify front-end is included to interact with the ap
 Simple module to add a link to the "advanced edit" of a elemental block
 
 * [robertvanlienden/silverstripe-elemental-advanced-edit](https://github.com/robertvanlienden/silverstripe-elemental-advanced-edit)
+* [robertvanlienden/silverstripe-addons](https://github.com/robertvanlienden/silverstripe-addons) Comptible with [robertvanlienden/silverstripe-bulma-portfolio-theme](robertvanlienden/silverstripe-bulma-portfolio-theme)
 
-##### SilverStripe theme
-I've made 2 simple SilverStripe themes based on Bulma CSS framework.
+
+##### SilverStripe themes
+I've made some SilverStripe themes based on Bulma CSS framework.
 
 * [robertvanlienden/silverstripe-bulma-primary-theme](https://github.com/robertvanlienden/silverstripe-bulma-primary-theme)
 * [robertvanlienden/silverstripe-bulma-dark-theme](https://github.com/robertvanlienden/silverstripe-bulma-dark-theme)
+* [robertvanlienden/silverstripe-bulma-portfolio-theme](robertvanlienden/silverstripe-bulma-portfolio-theme)
 
 ##### FoodChoose (dutch content)
-[FoodChoose](https://www.foodchoose.nl/) is a simple Laravel app I've made (one of the first finished laravel projects). 
+FoodChoose is a simple Laravel app I've made (one of the first finished laravel projects). 
 After some year of doing almost nothing with this side-project, I've decided to Open-source a copy of the source code for learning purposes.
 
 [You can find the source code over here](https://github.com/robertvanlienden/FoodChoose)
