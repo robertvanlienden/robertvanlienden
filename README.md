@@ -46,7 +46,7 @@ But there is also an VueJS/Vuetify front-end is included to interact with the ap
 Simple module to add a link to the "advanced edit" of a elemental block
 
 * [robertvanlienden/silverstripe-elemental-advanced-edit](https://github.com/robertvanlienden/silverstripe-elemental-advanced-edit)
-* [robertvanlienden/silverstripe-addons](https://github.com/robertvanlienden/silverstripe-addons) Comptible with [robertvanlienden/silverstripe-bulma-portfolio-theme](robertvanlienden/silverstripe-bulma-portfolio-theme)
+* [robertvanlienden/silverstripe-addons](https://github.com/robertvanlienden/silverstripe-addons) Comptible with [robertvanlienden/silverstripe-bulma-portfolio-theme](https://github.com/robertvanlienden/silverstripe-bulma-portfolio-theme)
 
 
 ##### SilverStripe themes
