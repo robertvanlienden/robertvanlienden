@@ -18,8 +18,10 @@ As web developer I am mostly working on the back-end using PHP, but I also like 
   * SilverStripe CMS
   * Symfony framework
   * Laravel framework
-* JavaScript
+* JavaScript/TypeScript
+  * Angular
   * VueJS
+  * Socket.IO
   * jQuery
 
 #### 🧰 Tools 
