@@ -34,6 +34,13 @@ As web developer I am mostly working on the back-end using PHP, but I also like 
 
 I ♥ Open Source software. This is a overview of the probjects I've published as open-source
 
+#### Ollama EasyPHPRompt
+This is a test project for Ollama with Syfony, using it locally as an LLM (Large Language Model). 
+
+With this project, you can easily reuse and manage "Prompt Types" to streamline your requests. You can also use these prompt types with your own API integrations with the provided API.
+
+* [robertvanlienden/Ollama-EasyPHPRompt]https://github.com/robertvanlienden/Ollama-EasyPHPRompt
+
 #### PHPersonal notes
 A personal notes application I've build.
 
@@ -58,17 +65,14 @@ I've made some SilverStripe themes based on Bulma CSS framework.
 * [robertvanlienden/silverstripe-bulma-dark-theme](https://github.com/robertvanlienden/silverstripe-bulma-dark-theme)
 * [robertvanlienden/silverstripe-bulma-portfolio-theme](https://github.com/robertvanlienden/silverstripe-bulma-portfolio-theme)
 
-##### FoodChoose (dutch content)
-FoodChoose is a simple Laravel app I've made (one of the first finished laravel projects). 
-After some year of doing almost nothing with this side-project, I've decided to Open-source a copy of the source code for learning purposes.
-
-[You can find the source code over here](https://github.com/robertvanlienden/FoodChoose)
-
 ### 📫 Get in contact
 
 * [Twitter](https://www.twitter.com/robertvlienden/)
 * [Send a email](https://robertvanlienden.nl/en_US/contact/)
 
+### Do you like my work? Feel free to donate
+
+Do you enjoy the software I published on my GitHub? You can buy me some coffee by donating on [https://paypal.me/robertvanlienden](https://paypal.me/robertvanlienden)
 
 <!--
 **robertvanlienden/robertvanlienden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
