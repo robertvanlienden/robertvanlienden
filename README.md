@@ -39,7 +39,7 @@ This is a test project for Ollama with Syfony, using it locally as an LLM (Large
 
 With this project, you can easily reuse and manage "Prompt Types" to streamline your requests. You can also use these prompt types with your own API integrations with the provided API.
 
-* [robertvanlienden/Ollama-EasyPHPRompt]https://github.com/robertvanlienden/Ollama-EasyPHPRompt
+* [robertvanlienden/Ollama-EasyPHPRompt](https://github.com/robertvanlienden/Ollama-EasyPHPRompt)
 
 #### PHPersonal notes
 A personal notes application I've build.
