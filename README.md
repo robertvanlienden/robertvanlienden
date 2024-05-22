@@ -35,7 +35,7 @@ As web developer I am mostly working on the back-end using PHP, but I also like 
 I ♥ Open Source software. This is a overview of the probjects I've published as open-source
 
 #### Ollama EasyPHPRompt
-This is a test project for Ollama with Syfony, using it locally as an LLM (Large Language Model). 
+This is a test project for Ollama with Symfony, using it locally as an LLM (Large Language Model). 
 
 With this project, you can easily reuse and manage "Prompt Types" to streamline your requests. You can also use these prompt types with your own API integrations with the provided API.
 
