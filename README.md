@@ -21,6 +21,7 @@ As web developer I am mostly working on the back-end using PHP, but I also like 
 * JavaScript/TypeScript
   * Angular
   * VueJS
+  * React
   * Socket.IO
   * jQuery
 
@@ -29,6 +30,8 @@ As web developer I am mostly working on the back-end using PHP, but I also like 
 * PHPStorm
 * GitLab CI/CD
 * Docker
+
+And many more stuff I used trough the years
 
 ### 🌐 Open Source
 
@@ -49,10 +52,14 @@ But there is also an VueJS/Vuetify front-end is included to interact with the ap
 
 * [robertvanlienden/phpersonalnotes](https://github.com/robertvanlienden/phpersonalnotes)
 
-#### SilverStripe modules
+#### Symfony bundles
 
-##### robertvanlienden/silverstripe-elemental-advanced-edit
-Simple module to add a link to the "advanced edit" of a elemental block
+##### robertvanliendenruseragreementsbundle
+Bundle to make user agreements in Symfony applications simpler
+
+* [robertvanliendenruseragreementsbundle](https://github.com/robertvanlienden/useragreementsbundle)
+
+#### SilverStripe modules
 
 * [robertvanlienden/silverstripe-elemental-advanced-edit](https://github.com/robertvanlienden/silverstripe-elemental-advanced-edit)
 * [robertvanlienden/silverstripe-addons](https://github.com/robertvanlienden/silverstripe-addons) Comptible with [robertvanlienden/silverstripe-bulma-portfolio-theme](https://github.com/robertvanlienden/silverstripe-bulma-portfolio-theme)
